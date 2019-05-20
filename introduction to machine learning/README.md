@@ -17,4 +17,4 @@ and an accuracy of 0.9346227385766682.
 The final evaluation was done hidden on a uknown evaluation set. My solution there gave me a final score of 0.935460478608.
 
 ## Euler
-The file was run on ETHZ supercluster Euler. It run for 13 hours on 32 cores.
+The file was run for 13 hours 42 minutes on the ETHZ supercluster Euler on 32 cores.
